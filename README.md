@@ -1,0 +1,2 @@
+# simple-scripts
+fastapi project
